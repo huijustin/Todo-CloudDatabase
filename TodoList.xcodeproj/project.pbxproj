@@ -69,8 +69,8 @@
 		815D9D7B2BC413800050957E /* TodoList */ = {
 			isa = PBXGroup;
 			children = (
-				B91C305A2BFD1EB800FF510B /* ViewModel */,
 				815D9D7C2BC413800050957E /* TodoListApp.swift */,
+				B91C305A2BFD1EB800FF510B /* ViewModel */,
 				815D9D8C2BC414270050957E /* Helpers */,
 				815D9D8B2BC414160050957E /* Model */,
 				815D9D8A2BC413F70050957E /* Views */,
